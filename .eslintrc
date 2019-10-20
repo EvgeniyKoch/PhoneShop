@@ -1,0 +1,77 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "env": {
+    "browser": true,
+    "node": true,
+    "amd": true,
+    "jest": true,
+    "es6": true
+  },
+  "plugins": [
+    "react",
+    "jsx-a11y"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "linebreak-style": 0,
+    "arrow-body-style": [
+      0,
+      "always"
+    ],
+    "comma-dangle": [
+      2,
+      "always-multiline"
+    ],
+    "no-underscore-dangle": 0,
+    "import/imports-first": 0,
+    "import/newline-after-import": 0,
+    "import/no-extraneous-dependencies": 0,
+    "import/no-named-as-default": 0,
+    "import/no-unresolved": 2,
+    "import/prefer-default-export": 0,
+    "indent": [
+      2,
+      2,
+      {
+        "SwitchCase": 1
+      }
+    ],
+    "func-style": [
+      2,
+      "declaration",
+      { "allowArrowFunctions": true }
+    ],
+    "max-len": 0,
+    "newline-per-chained-call": 0,
+    "no-console": 0,
+    "no-unused-vars": 1,
+    "spaced-comment": 0,
+    "no-use-before-define": 0,
+    "prefer-template": 2,
+    "no-return-await": 0,
+    "require-yield": 0,
+    "jsx-a11y/aria-props": 2,
+    "jsx-a11y/heading-has-content": 0,
+    "jsx-a11y/anchor-is-valid": 2,
+    "jsx-a11y/label-has-for": 2,
+    "jsx-a11y/mouse-events-have-key-events": 2,
+    "jsx-a11y/role-has-required-aria-props": 2,
+    "jsx-a11y/role-supports-aria-props": 2,
+    "jsx-a11y/no-static-element-interactions": 0,
+    "react/jsx-filename-extension": 0,
+    "react/jsx-no-target-blank": 0,
+    "react/require-extension": 0,
+    "react/self-closing-comp": 0,
+    "react/forbid-prop-types": 0,
+    "react/sort-comp": 0,
+    "react/require-default-props": 0,
+    "react/prop-types": 0
+  }
+}
