@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PhoneShop/static/css/main.812602da.chunk.css",
+    "main.js": "/PhoneShop/static/js/main.49ce799b.chunk.js",
+    "main.js.map": "/PhoneShop/static/js/main.49ce799b.chunk.js.map",
+    "runtime-main.js": "/PhoneShop/static/js/runtime-main.f4714e96.js",
+    "runtime-main.js.map": "/PhoneShop/static/js/runtime-main.f4714e96.js.map",
+    "static/js/2.eeda97d9.chunk.js": "/PhoneShop/static/js/2.eeda97d9.chunk.js",
+    "static/js/2.eeda97d9.chunk.js.map": "/PhoneShop/static/js/2.eeda97d9.chunk.js.map",
+    "index.html": "/PhoneShop/index.html",
+    "precache-manifest.3174ea4a2daa0d1034a3d3b8466e869b.js": "/PhoneShop/precache-manifest.3174ea4a2daa0d1034a3d3b8466e869b.js",
+    "service-worker.js": "/PhoneShop/service-worker.js",
+    "static/css/main.812602da.chunk.css.map": "/PhoneShop/static/css/main.812602da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4714e96.js",
+    "static/js/2.eeda97d9.chunk.js",
+    "static/css/main.812602da.chunk.css",
+    "static/js/main.49ce799b.chunk.js"
+  ]
+}
